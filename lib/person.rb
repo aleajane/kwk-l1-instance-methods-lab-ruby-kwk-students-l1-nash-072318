@@ -2,6 +2,8 @@
 class Person 
   def initiative 
   end 
+ 
+ 
   
 end 
 
